@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - default
 dependencies:
-  - ctapipe=0.24
+  - ctapipe=0.29
   - h5py
   - ipython
   - numba
